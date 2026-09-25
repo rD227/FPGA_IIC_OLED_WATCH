@@ -1,0 +1,13 @@
+# ---- Vivado 生成目录 ----
+FPGA_OLED_Clock.cache/
+FPGA_OLED_Clock.runs/
+FPGA_OLED_Clock.hw/
+FPGA_OLED_Clock.sim/
+FPGA_OLED_Clock.gen/
+FPGA_OLED_Clock.ip_user_files/
+
+# ---- 日志 / 临时文件 ----
+*.jou
+*.log
+*.str
+.Xil/
