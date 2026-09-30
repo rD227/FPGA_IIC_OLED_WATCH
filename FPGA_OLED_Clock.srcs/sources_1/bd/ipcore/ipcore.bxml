@@ -2,10 +2,10 @@
 <Root MajorVersion="0" MinorVersion="36">
   <CompositeFile CompositeFileTopName="ipcore" CanBeSetAsTop="false" CanDisplayChildGraph="true">
     <Description>Composite Fileset</Description>
-    <Generation Name="SYNTHESIS" State="GENERATED" Timestamp="1790308403"/>
-    <Generation Name="IMPLEMENTATION" State="GENERATED" Timestamp="1790308403"/>
-    <Generation Name="SIMULATION" State="GENERATED" Timestamp="1790308403"/>
-    <Generation Name="HW_HANDOFF" State="GENERATED" Timestamp="1790308403"/>
+    <Generation Name="SYNTHESIS" State="GENERATED" Timestamp="1790699205"/>
+    <Generation Name="IMPLEMENTATION" State="GENERATED" Timestamp="1790699205"/>
+    <Generation Name="SIMULATION" State="STALE" Timestamp="1790699205"/>
+    <Generation Name="HW_HANDOFF" State="STALE" Timestamp="1790699205"/>
     <FileCollection Name="SOURCES" Type="SOURCES">
       <File Name="ip\ipcore_processing_system7_0_0\ipcore_processing_system7_0_0.xci" Type="IP">
         <Instance HierarchyPath="processing_system7_0"/>
